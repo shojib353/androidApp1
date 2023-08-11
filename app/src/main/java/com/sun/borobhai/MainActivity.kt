@@ -169,7 +169,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onCancelled(error: DatabaseError) {
-                // Handle database error if needed
+                // Handle database error if needed k
                 Toast.makeText(this@MainActivity, error.message, Toast.LENGTH_SHORT).show()
             }
         })
