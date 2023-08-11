@@ -1,0 +1,368 @@
+{
+  "languages": [
+    {
+      "name": "C programming",
+      "definition": "C is a general-purpose, procedural programming language.",
+      "why_learn": "C is the foundation of many other programming languages and is widely used in system programming, embedded systems, and low-level programming.",
+      "working_field": "Software development, systems programming, embedded systems, firmware development, operating systems, etc.",
+      "best_books": [
+        "Head First C - David Griffiths, Dawn Griffiths",
+        "C Programming Absolute Beginners Guide 3rdEdition",
+        "The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)"
+      ],
+      "best_editors": [
+        "Code::Blocks",
+        "Visual Studio Code",
+        "Eclipse IDE"
+      ],
+      "best_youtube_channels": [
+        "thenewboston",
+        "CodeWithHarry",
+        "GeeksforGeeks",
+        "Neso Academy",
+        "WsCube Tech",
+        "Bro Code"
+      ],
+      "online_compilers": [
+        "OnlineGDB",
+        "Replit",
+        "IDEone"
+      ],
+      "books_download_links": [
+        "https://drive.google.com/file/d/1v0wtPS8xFFwIE_TEK1AMnAQmFx16RZLQ/view?usp=drive_link",
+        "https://drive.google.com/file/d/1i4VBozrT-tL4C0HdAjvmAF3SPyC_laVf/view?usp=drive_link",
+        "https://drive.google.com/file/d/1-nhruUbBN3byAhp3T0CgGHFPp7G1HjiS/view?usp=drive_link"
+      ],
+      "editors_download_links": [
+        "https://www.codeblocks.org/downloads/binaries/",
+        "https://code.visualstudio.com/download",
+        "https://www.eclipse.org/downloads/"
+      ],
+      "online_compilers_link": [
+        "https://www.onlinegdb.com/online_c_compiler",
+        "https://replit.com/@replit/C#main.c",
+        "https://ideone.com/l/c"
+      ],
+      "youtube_channels_links": [
+        "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq",
+        "https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+        "https://www.youtube.com/playlist?list=PLqM7alHXFySFsVw4PvHRps16CR5puzc_K",
+        "https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR",
+        "https://www.youtube.com/playlist?list=PLjVLYmrlmjGcrFEK43__3yeeySU1N7vpW",
+        "https://www.youtube.com/watch?v=87SH2Cn0s9A&ab_channel=BroCode"
+      ]
+    },
+    {
+      "name": "C++",
+      "definition": "C++ is a general-purpose, object-oriented programming language.",
+      "why_learn": "C++ extends C and adds support for object-oriented programming, making it suitable for a wide range of applications.",
+      "working_field": "Software development, game development, systems programming, high-performance applications, etc.",
+      "best_books": [
+        "C++ Primer by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo",
+        "Sams Teach Youreself C++ in One hour a day",
+        "C++ Pocket Reference by Kyle Loudon"
+      ],
+      "best_editors": [
+        "Visual Studio",
+        "CLion",
+        "Code::Blocks"
+      ],
+      "best_youtube_channels": [
+        "Anisul Islam",
+        "The Cherno",
+        "Apna College",
+        "CodeWithHarry",
+        "FreeCodeAcademy.org",
+        "Caleb Curry"
+      ],
+      "online_compilers": [
+        "Repl.it",
+        "JDoodle",
+        "GDB Online Debugger"
+      ],
+      "books_download_links": [
+        "https://drive.google.com/file/d/1sbBvX44H9-Kus3ERb-iBSfxqZe3SVc2L/view?usp=drive_link",
+        "https://drive.google.com/file/d/1DdepXkU-dBqIKyVNiid0AXN11v7nXRX6/view?usp=drive_link",
+        "https://drive.google.com/file/d/1c18x-A-fd0ijr1jkhiZjcl5C9S6puTFd/view?usp=drive_link"
+      ],
+      "editors_download_links": [
+        "https://code.visualstudio.com/download",
+        "https://www.jetbrains.com/clion/download/#section=windows",
+        "https://www.codeblocks.org/downloads/binaries/"
+      ],
+      "online_compilers_link": [
+        "https://replit.com/@georgianamit/Online-C-Compiler#main.cpp",
+        "https://www.jdoodle.com/online-compiler-c++/",
+        "https://www.onlinegdb.com/online_c++_compiler"
+      ],
+      "youtube_channels_links": [
+        "https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL",
+        "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+        "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+        "https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL",
+        "https://www.youtube.com/watch?v=8jLOx1hD3_o&pp=ygUMY3BwIHBsYXlsaXN0",
+        "https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG"
+      ]
+    },
+    {
+      "name": "Java",
+      "definition": "Java is a general-purpose, object-oriented programming language.",
+      "why_learn": "Java is platform-independent, has a large ecosystem, and is widely used in enterprise applications and Android app development.",
+      "working_field": "Software development, Android app development, web development, enterprise applications, etc.",
+      "best_books": [
+        "Head First Java by Kathy Sierra and Bert Bates",
+        "Java A beginner's Guide Third Edition by Herbert Schildt",
+        "Effective Java Third Edition by Joshua Bloch"
+      ],
+      "best_editors": [
+        "Eclipse IDE",
+        "IntelliJ IDEA",
+        "NetBeans"
+      ],
+      "best_youtube_channels": [
+        "Telusko",
+        "CodeWithHarry",
+        "Edureka",
+        "Java Brains",
+        "freeCodeCamp.org",
+        "Anisul Islam"
+      ],
+      "online_compilers": [
+        "JDoodle",
+        "GDB Online Debugger",
+        "Programiz"
+      ],
+      "books_download_links": [
+        "https://drive.google.com/file/d/1luJ2RainoEooAx3axTvDXXmCKVkwuyJV/view?usp=drive_link",
+        "https://drive.google.com/file/d/1ih9U2BjO-WZGOPK9SIfU_QAq6OBu7z37/view?usp=drive_link",
+        "https://drive.google.com/file/d/1L1FILGj361rpexcguwzszPxex79LqTxT/view?usp=drive_link"
+      ],
+      "editors_download_links": [
+        "https://www.eclipse.org/downloads/packages/release/juno/sr2/eclipse-ide-java-developers",
+        "https://www.jetbrains.com/idea/download/?section=windows",
+        "https://netbeans.apache.org/download/index.html"
+      ],
+      "online_compilers_link": [
+        "https://www.jdoodle.com/online-java-compiler/",
+        "https://www.onlinegdb.com/online_java_compiler",
+        "https://www.programiz.com/java-programming/online-compiler/"
+      ],
+      "youtube_channels_links": [
+        "https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5",
+        "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+        "https://www.youtube.com/playlist?list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ",
+        "https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYSqRzWc0AJfL9Bza6kdj9V",
+        "https://www.youtube.com/watch?v=grEKMHGYyns&pp=ygUkamF2YSB0dXRvcmlhbCBmb3IgYmVnaW5uZXJzIHBsYXlsaXN0",
+        "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa"
+      ]
+    },
+    {
+      "name": "Python",
+      "definition": "Python is a high-level, interpreted programming language.",
+      "why_learn": "Python is easy to learn, versatile, and has a large community, making it ideal for web development, data analysis, AI, and scripting.",
+      "working_field": "Web development, data science, machine learning, artificial intelligence, automation, etc.",
+      "best_books": [
+        "Python for Everybody by Charles R. Severance",
+        "Python Cookbook by David Beazley & Brain K. Jones",
+        "Head First Python by Paul Barry"
+      ],
+      "best_editors": [
+        "PyCharm",
+        "Visual Studio Code",
+        "Sublime Text"
+      ],
+      "best_youtube_channels": [
+        "Anisul Islam",
+        "Telusko",
+        "CodeWithHarry",
+        "CS Dojo",
+        "Corey Schafer",
+        "freeCodeCamp.org"
+      ],
+      "online_compilers": [
+        "JDoodle",
+        "Compiler Explorer",
+        "GDB Online Debugger"
+      ],
+      "books_download_links": [
+        "https://drive.google.com/file/d/1QHYosB9-FlBllxnvVcHb-it5kh9Z-hC3/view?usp=drive_link",
+        "https://drive.google.com/file/d/13Xqpu91Bwzy7ikXZ4OXGF1bcaJ6VkSw3/view?usp=drive_link",
+        "https://drive.google.com/file/d/1R37GYcXdF6dh2g9W1p6vBPr_paduDUHe/view?usp=drive_link"
+      ],
+      "editors_download_links": [
+        "https://www.jetbrains.com/pycharm/download/?section=windows",
+        "https://code.visualstudio.com/download",
+        "https://www.sublimetext.com/download"
+      ],
+      "online_compilers_link": [
+        "https://www.jdoodle.com/python3-programming-online/",
+        "https://godbolt.org/noscript/python",
+        "https://www.onlinegdb.com/online_python_compiler"
+      ],
+      "youtube_channels_links": [
+        "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN",
+        "https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+        "https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg",
+        "https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg",
+        "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU",
+        "https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "definition": "JavaScript is a high-level, interpreted programming language.",
+      "why_learn": "JavaScript is the language of the web, used for front-end and back-end development, making it essential for web developers.",
+      "working_field": "Web development, front-end development, back-end development, mobile app development, etc.",
+      "best_books": [
+        "A Smarter Way to Learn JavaScript by Mark Myers",
+        "JavaScript: The Definitive Guide by David Flanagan",
+        "Professional JavaScript for Web Developers"
+      ],
+      "best_editors": [
+        "Visual Studio Code",
+        "Atom",
+        "Sublime Text"
+      ],
+      "best_youtube_channels": [
+        "Learn with Sumit",
+        "Stack Learner",
+        "CodeWithHarry",
+        "freeCodeCamp.org",
+        "Bro Code",
+        "Hablu Programmer"
+      ],
+      "online_compilers": [
+        "Repl.it",
+        "OneCompiler",
+        "GDB Online Debugger"
+      ],
+      "books_download_links": [
+        "https://drive.google.com/file/d/16qc7Vk7ay9s8JLA2UhmrB6zs_WEOuNGL/view?usp=drive_link",
+        "https://drive.google.com/file/d/1ke4lGifBaySl1hWNeKhv5DOCMiHTRqYI/view?usp=drive_link",
+        "https://drive.google.com/file/d/1jKGa7TSTw2qU4zGnAax2BgP1kZIjrUzK/view?usp=drive_link"
+      ],
+      "editors_download_links": [
+        "https://code.visualstudio.com/download",
+        "https://atom.en.softonic.com/",
+        "https://www.sublimetext.com/download"
+      ],
+      "online_compilers_link": [
+        "https://replit.com/@ruegen/JavaScript#index.js",
+        "https://onecompiler.com/javascript",
+        "https://www.onlinegdb.com/online_javascript_rhino_interpreter"
+      ],
+      "youtube_channels_links": [
+        "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy",
+        "https://www.youtube.com/watch?v=Ky1_8cdIQBw&t=42s&pp=ygUkamF2YXNjcmlwdCBmb3IgYmVnaW5uZXJzIGZ1bGwgY291cnNl",
+        "https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR",
+        "https://www.youtube.com/watch?v=PkZNo7MFNFg&pp=ygUkamF2YXNjcmlwdCBmb3IgYmVnaW5uZXJzIGZ1bGwgY291cnNl",
+        "https://www.youtube.com/watch?v=8dWL3wF_OMw&pp=ygUkamF2YXNjcmlwdCBmb3IgYmVnaW5uZXJzIGZ1bGwgY291cnNl",
+        "https://www.youtube.com/watch?v=JInHMY6DNzM&pp=ygUkamF2YXNjcmlwdCBmb3IgYmVnaW5uZXJzIGZ1bGwgY291cnNl"
+      ]
+    },
+    {
+      "name": "PHP",
+      "definition": "PHP is a server-side, scripting programming language.",
+      "why_learn": "PHP is widely used for web development and powers many popular websites and content management systems.",
+      "working_field": "Web development, server-side development, content management systems, e-commerce platforms, etc.",
+      "best_books": [
+        "PHP Foreword by Cal Evans",
+        "Head First PHP & MySQL by Lynn Beighley & Michael Morrison",
+        "The Joy of PHP by Alan Forbes"
+      ],
+      "best_editors": [
+        "Visual Studio Code",
+        "Sublime Text",
+        "Atom"
+      ],
+      "best_youtube_channels": [
+        "Yahoo Baba",
+        "Training with Live Project",
+        "Programming With Gio",
+        "CodeWithHarry",
+        "Bro Code",
+        "freeCodeCamp.org"
+      ],
+      "online_compilers": [
+        "W3Schools",
+        "paiza.io",
+        "myCompiler"
+      ],
+      "books_download_links": [
+        "https://drive.google.com/file/d/1Ui8VeycN9BmdC2jhBct1n8JXrXYqzrO6/view?usp=drive_link",
+        "https://drive.google.com/file/d/1F3juRVFQuN2NXkSamaxtqSPAMnrJfsP3/view?usp=drive_link",
+        "https://drive.google.com/file/d/1JOLR1NSWVdR5XF9pJuj_Vadi86LK8iC3/view?usp=drive_link"
+      ],
+      "editors_download_links": [
+        "https://code.visualstudio.com/download",
+        "https://www.sublimetext.com/download",
+        "https://atom.en.softonic.com/"
+      ],
+      "online_compilers_link": [
+        "https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler",
+        "https://paiza.io/en/projects/new",
+        "https://www.mycompiler.io/new/php"
+      ],
+      "youtube_channels_links": [
+        "https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs",
+        "https://www.youtube.com/playlist?list=PLTydW-y9HsbTHx5nDUZy6iKfnkFEqLb2F",
+        "https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-",
+        "https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR",
+        "https://www.youtube.com/watch?v=zZ6vybT1HQs&pp=ygUkcGhwIHR1dG9yaWFsIGZvciBiZWdpbm5lcnMgcGxheWxpc3Qg",
+        "https://www.youtube.com/watch?v=OK_JCtrrv-c&pp=ygUwcGhwIHR1dG9yaWFsIGZvciBiZWdpbm5lcnMgcGxheWxpc3QgZnJlZWNvZGVjYW1w"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "definition": "Kotlin is a modern, statically typed programming language.",
+      "why_learn": "Kotlin is designed to be fully interoperable with Java, making it a popular choice for Android app development.",
+      "working_field": "Android app development, server-side development, web development, etc.",
+      "best_books": [
+        "Kotlin in Action by Dmitry Jemerov and Svetlana Isakova",
+        "Kotlin Programming The Big Nerd Ranch Guide",
+        "Head First Kotlin by Dawn Griffiths and David Griffiths"
+      ],
+      "best_editors": [
+        "Android Studio",
+        "IntelliJ IDEA",
+        "Visual Studio Code"
+      ],
+      "best_youtube_channels": [
+        "Touhid Apps",
+        "Smartherd",
+        "Cheezy Code",
+        "Donn Felker",
+        "Amigoscode",
+        "freeCodeCamp.org"
+      ],
+      "online_compilers": [
+        "Kotlin Playground",
+        "JDoodle",
+        "OneCompiler"
+      ],
+      "books_download_links": [
+        "https://drive.google.com/file/d/1t7iLAM4c6g3bgp7D5Nicvqjlb4F9Y_Pp/view?usp=drive_link",
+        "https://drive.google.com/file/d/1hUS0WcHQhO55doiYlvbQYG6rosDZRYMH/view?usp=drive_link",
+        "https://drive.google.com/file/d/1sYIlijvX0q8q56IsrGW8WafTJsUUPnj9/view?usp=drive_link"
+      ],
+      "editors_download_links": [
+        "https://developer.android.com/studio",
+        "https://www.jetbrains.com/idea/download/?section=windows",
+        "https://code.visualstudio.com/download"
+      ],
+      "online_compilers_link": [
+        "https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS45LjAiLCJwbGF0Zm9ybSI6ImphdmEiLCJhcmdzIjoiIiwibm9uZU1hcmtlcnMiOnRydWUsInRoZW1lIjoiaWRlYSIsImNvZGUiOiIvKipcbiAqIFlvdSBjYW4gZWRpdCwgcnVuLCBhbmQgc2hhcmUgdGhpcyBjb2RlLlxuICogcGxheS5rb3RsaW5sYW5nLm9yZ1xuICovXG5mdW4gbWFpbigpIHtcbiAgICBwcmludGxuKFwiSGVsbG8sIHdvcmxkISEhXCIpXG59In0=",
+        "https://www.jdoodle.com/compile-kotlin-online/",
+        "https://onecompiler.com/kotlin"
+      ],
+      "youtube_channels_links": [
+        "https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr",
+        "https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR",
+        "https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G",
+        "https://www.youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz",
+        "https://www.youtube.com/watch?v=TEXaoSC_8lQ&pp=ygUha290bGluIGJlZ2lubmVyIHR1dG9yaWFsIHBsYXlsaXN0",
+        "https://www.youtube.com/watch?v=EExSSotojVI&pp=ygUha290bGluIGJlZ2lubmVyIHR1dG9yaWFsIHBsYXlsaXN0"
+      ]
+    }
+  ]
+}
